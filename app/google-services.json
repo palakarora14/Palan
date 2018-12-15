@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "430591305529",
+    "firebase_url": "https://palan-the-shopping-app.firebaseio.com",
+    "project_id": "palan-the-shopping-app",
+    "storage_bucket": "palan-the-shopping-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430591305529:android:11d104bc8ae3e288",
+        "android_client_info": {
+          "package_name": "com.example.aroras.palan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430591305529-oq063rth96ouo3guabl3gb1d4ph6f11c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aroras.palan",
+            "certificate_hash": "bc73c5c850e2d554d23fa5655dab95e8a3fed187"
+          }
+        },
+        {
+          "client_id": "430591305529-ag94odl8mp0ngv9fj5to7eflnac8u9db.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbf1N4xS9Hl665YR-2GDwwoByCrqezFyI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430591305529-ag94odl8mp0ngv9fj5to7eflnac8u9db.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430591305529:android:5eeefb6bd6071e36",
+        "android_client_info": {
+          "package_name": "com.example.aroras.palan.Activity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430591305529-k5qu3cf5tell8l993jbm4hhfhlrukbt5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aroras.palan.Activity",
+            "certificate_hash": "bc73c5c850e2d554d23fa5655dab95e8a3fed187"
+          }
+        },
+        {
+          "client_id": "430591305529-ag94odl8mp0ngv9fj5to7eflnac8u9db.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbf1N4xS9Hl665YR-2GDwwoByCrqezFyI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430591305529-ag94odl8mp0ngv9fj5to7eflnac8u9db.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
